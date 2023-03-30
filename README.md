@@ -43,6 +43,7 @@ Application of two different plot functions such as Pandas Dataframe Plot method
    - How can I use the aggregate function in Python Pandas to calculate summary statistics?.(20 March 2023), GITNUS, Retrieved on: 27 March 2023, from<https://blog.gitnux.com/code/pandas-aggregate/>
    - Pandas.Series.sort_values.(2023).Pandas, Retrieved on: 27 March 2023, from <https://pandas.pydata.org/docs/reference/api/pandas.Series.sort_values.html>
    - How to select columns from groupby object in pandas?.(2014). Stack Overflow. Retrieved on: 27 March 2023, from<https://stackoverflow.com/questions/19202093/how-to-select-columns-from-groupby-object-in-pandas>
+   - Pandas DataFrame last() Method.(n.d.). Study Tonight. Retrieved on: 28 March 2023, from<https://www.studytonight.com/pandas/pandas-dataframe-last-method>
    - Iterate pandas dataframe. (2021). Python tutorial. Retrieved on: 28 March 2023,from:<https://pythonbasics.org/pandas-iterate-dataframe/>
    - Plot multiple boxplots in one graph in Pandas or Matplotlib.(01 February 2022). Tutorials Points, Retrieved on: 29 March 2023,from<https://www.tutorialspoint.com/plot-multiple-boxplots-in-one-graph-in-pandas-or-matplotlib>
    - Chart visualization. (2023). Pandas, Retrieved on: 29 March 2023,from<https://pandas.pydata.org/docs/user_guide/visualization.html>
