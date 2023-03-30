@@ -4,13 +4,13 @@
 
 The aim for this project is to analyse data collected in mouse study with the use of different treatments along with the time period in days, to observe the size of tumor over the time for cancer treatment in pharmaceutical company. 
 
-
 ## **Project description**
 
 This project uses Pandas Dataframe and Maplotlib to visualise our data into graph for easy analysis. In combination of using scipy stats to be used for our data distribution calculations to study the data reliability.
 
 Jupyter notebook - under Visual Studio Code is heavily used to write the code for project analysis. 
 Application of two different plot functions such as Pandas Dataframe Plot method, and Matplotlib pyplot are used to find out their differences in method and output. 
+
 
 
 ### **Benefits:**
@@ -25,18 +25,18 @@ Application of two different plot functions such as Pandas Dataframe Plot method
 
 ## **Project method**
 
- 1. First: open, and merge raw data given in Excel CSV to Pandas DataFrame
- 2. Second: to find for abnormality, in this case, get rid of duplicates data. 
- 3. Third: Start to process data, generates usual statistical calculations. 
- 4. Fourth: Generate series of data required using Bar charts and pie charts with two method: Pandas Dataframe Plot method, and Matplotlib pyplot.
- 5. Fifth: Generate Boxplots
-     - Funtions used: Groupby method, reset_index(), last(): to determine last element appeared in the data (but not last row)
-     - For loop method and if function used: to filter final tumor volume data to compare 4 treatments used
-     - Series of Quartiles calculations used to determine outliers
- 6. Sixth: Generate Line Graph
-      - Randomly pick a mouse treated by Capomulin and analyse the progress of the treatment over the time. 
- 7. Seventh: Generate Scatter plot and linear regression line to find out the correlation between weight of mouse and its tumor size. 
-   
+    1. Open, and merge raw data given in Excel CSV to Pandas DataFrame
+    2. To find for abnormality, in this case, get rid of duplicates data. 
+    3. Start to process data, generates usual statistical calculations. 
+    4.Generate series of data required using Bar charts and pie charts with two method: Pandas Dataframe Plot method, and Matplotlib pyplot.
+    5.Generate Boxplots
+        - Funtions used: Groupby method, reset_index(), last(): to determine last element appeared in the data (but not last row)
+        - For loop method and if function used: to filter final tumor volume data to compare 4 treatments used
+        - Series of Quartiles calculations used to determine outliers
+    6. Generate Line Graph
+         - Randomly pick a mouse treated by Capomulin and analyse the progress of the treatment over the time. 
+    7. Generate Scatter plot and linear regression line to find out the correlation between weight of mouse and its tumor size. 
+
  ## **References**
 
    - Pandas Get List of All Duplicate Rows.(9 November 2021).Sparkby{Examples}. Retrieved on: 26 March 2023, from<https://sparkbyexamples.com/pandas/pandas-get-list-of-all-duplicate-rows/#:~:text=Pandas%20DataFrame.,multiple%20columns%20or%20all%20columns.>
