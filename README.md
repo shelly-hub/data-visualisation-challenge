@@ -39,7 +39,7 @@ Application of two different plot functions such as Pandas Dataframe Plot method
 
  ## **References**
 
-   - Pandas Get List of All Duplicate Rows.(9 November 2021).Sparkby{Examples}. Retrieved on: 26 March 2023, from<https://sparkbyexamples.com/pandas/pandas-get-list-of-all-duplicate-rows/#:~:text=Pandas%20DataFrame.,multiple%20columns%20or%20all%20columns.>
+   - Pandas Get List of All Duplicate Rows.(9 November 2021).Sparkby{Examples}. Retrieved on: 26 March 2023, from<https://sparkbyexamples.com/pandas/pandas-get-list-of-all-duplicate-rows/#:~:text=Pandas%20DataFrame.,multiple%20columns%20or%20all%20columns.> 
    - How can I use the aggregate function in Python Pandas to calculate summary statistics?.(20 March 2023), GITNUS, Retrieved on: 27 March 2023, from<https://blog.gitnux.com/code/pandas-aggregate/>
    - Pandas.Series.sort_values.(2023).Pandas, Retrieved on: 27 March 2023, from <https://pandas.pydata.org/docs/reference/api/pandas.Series.sort_values.html>
    - How to select columns from groupby object in pandas?.(2014). Stack Overflow. Retrieved on: 27 March 2023, from<https://stackoverflow.com/questions/19202093/how-to-select-columns-from-groupby-object-in-pandas>
